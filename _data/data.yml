@@ -8,15 +8,15 @@ sidebar:
 
     # Profile information
     name: Bo Zhang
-    tagline: Ph.D. student at Tsinghua University
+    tagline: Second-year Ph.D. student at Tsinghua University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: b-zhang18@mails.tsinghua.edu.cn
+    email: bzhang.thu@gmail.com
     phone: +86 178-8883-3110
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: zhangbo19
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -25,23 +25,23 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Proficient
 
-      - idiom: Spanish
-        level: Professional
+     # - idiom: Spanish
+     #   level: Professional
 
     interests:
-      - item: Climbing
+      - item: Badminton
         link:
 
-      - item: Snowboarding
+      - item: Running
         link:
 
-      - item: Cooking
+      - item: Swimming
         link:
 
 career-profile:
