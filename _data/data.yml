@@ -45,7 +45,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -93,39 +93,27 @@ experiences:
       company: Tsinghua University, Beijing
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
           - Advisor: Prof. Jinli Suo
           - Researched directly estimating human pose from compressively sampled measurements without recovering image.
           - Researched utilizing polarization for 3D imaging under scattering media and found out the relationship between depth and degree of polarization.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Undergraduate Research Student
+      time: May 2017 - Sep. 2017
+      company: University of Michigan, Ann Arbor
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Advisor: Prof. Katsuo Kurabayashi
+          - Explored and simulated how droplets merge in surfactant environment and the factors affecting it using COMSOL Multiphysics.
+    - role: Exchange student
+      time: Jan. 2017 - May 2017
+      company: Nanyang Technological University, Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: Undergraduate Research Student
+      time: Oct. 2016 - May 2017
+      company: Tsinghua University, Beijing
+      details: |
+          - Advisor: Prof. Dahai Ren
+          - Conducted microfluidic experiments aiming to design a kind of biochip for early detection of circulating tumor cells(CTC).
+          
 projects:
     title: Projects
     intro: >
@@ -179,23 +167,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & PyTorch
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: MATLAB
         level: 98%
 
-      - name: Angular
+      - name: C++
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Solidworks & AutoCAD
         level: 95%
 
-      - name: Ruby on Rails
+      - name: LabVIEW
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Multisim
         level: 60%
+        
+      - name: COMSOL
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
