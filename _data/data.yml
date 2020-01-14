@@ -65,9 +65,20 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.S. in Measurement, Control Technology and Instruments
+      university: Tsinghua University
+      time: 2014 - 2018
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: B.S. in Economics
+      university: Tsinghua University
+      time: 2015 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +88,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Undergraduate Research Student
+      time: Sep. 2017 - Aug. 2018
+      company: Tsinghua University, Beijing
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,8 +101,9 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Advisor: Prof. Jinli Suo
+          - Researched directly estimating human pose from compressively sampled measurements without recovering image.
+          - Researched utilizing polarization for 3D imaging under scattering media and found out the relationship between depth and degree of polarization.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
