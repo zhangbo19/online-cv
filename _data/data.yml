@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Bo Zhang
     tagline: Second-year Ph.D. student at Tsinghua University
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: self.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bzhang.thu@gmail.com
@@ -53,7 +53,7 @@ career-profile:
        My research interests lie in computer vision and computational imaging.
        
        I like doing sports in my spare time. Badminton, tennis, running and swimming are my favorites.
-       # [download this free resume/CV template here]().
+    # [download this free resume/CV template here]().
 education:
     - degree: Ph.D. in Control Science and Engineering
       university: Tsinghua University
@@ -118,9 +118,6 @@ experiences:
 projects:
     title: Research
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Low-light dataset
         # link: "#hook"
