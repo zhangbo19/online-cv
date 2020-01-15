@@ -53,7 +53,7 @@ career-profile:
        My research interests lie in computer vision and computational imaging.
        
        I like doing sports in my spare time. Badminton, tennis, running and swimming are my favorites.
-       [download this free resume/CV template here]().
+       # [download this free resume/CV template here]().
 education:
     - degree: Ph.D. in Control Science and Engineering
       university: Tsinghua University
@@ -116,53 +116,22 @@ experiences:
           - Conducted microfluidic experiments aiming to design a kind of biochip for early detection of circulating tumor cells(CTC).
           
 projects:
-    title: Projects
+    title: Research
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Low-light dataset
+        # link: "#hook"
+        tagline: "We built a portable setup being able to capture pixel-level registered bright-dark pair simultaneously, 
+        which is applicable for both static and dynamic scenes. Using this setup, we collected a large, paired, annotated 
+        and high-quality low-light dataset for low-light image restoration and object detection based on image and video."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Ultra-high-speed imaging
+        # link: "#"
+        tagline: "Exploiting SPAD and elaborate optical design to jointly achieve high spatial and temporal resolution 
+        imaging for macroscopic and microscopic objects."
 
 skills:
     title: Skills &amp; Proficiency
