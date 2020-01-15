@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Bo Zhang
@@ -47,12 +47,13 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       Greetings from Bo! Welcome to my website.
+       I am a second-year Ph.D. student at Tsinghua University, advised by Prof. Jinli Suo and co-advised by Prof. Qionghai Dai.
+       I received B.S. in Measurement, Control Technology and Instruments and B.S. in Economics from Tsinghua University in 2018. 
+       My research interests lie in computer vision and computational imaging.
+       
+       I like doing sports in my spare time. Badminton, tennis, running and swimming are my favorites.
+       [download this free resume/CV template here]().
 education:
     - degree: Ph.D. in Control Science and Engineering
       university: Tsinghua University
