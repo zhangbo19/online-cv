@@ -93,7 +93,6 @@ experiences:
       time: Sep. 2017 - Aug. 2018
       company: Tsinghua University, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
           - Advisor: Prof. Jinli Suo
           - Researched directly estimating human pose from compressively sampled measurements without recovering image.
           - Researched utilizing polarization for 3D imaging under scattering media and found out the relationship between depth and degree of polarization.
@@ -101,7 +100,6 @@ experiences:
       time: May 2017 - Sep. 2017
       company: University of Michigan, Ann Arbor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
           - Advisor: Prof. Katsuo Kurabayashi
           - Explored and simulated how droplets merge in surfactant environment and the factors affecting it using COMSOL Multiphysics.
     - role: Exchange student
